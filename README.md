@@ -6,3 +6,4 @@ I have to admit that this is kind of rubblish
 Some codes become messy, for they are Chinese.
 <br>
 Thanks to EasyX which enabled me to develop a graphic interface.
+###### under [WTFPL](http://www.wtfpl.net/txt/copying/) license
